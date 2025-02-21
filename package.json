@@ -25,6 +25,7 @@
     "@nuxt/eslint": "1.1.0",
     "@nuxt/fonts": "^0.10.3",
     "eslint": "^9.0.0",
-    "prettier": "^3.5.1"
+    "prettier": "^3.5.1",
+    "sass": "^1.85.0"
   }
 }
